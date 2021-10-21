@@ -1,0 +1,57 @@
+.my-changes-input{
+
+    text-align: center;
+    background-position: left;
+    
+}
+.layout-inicial{
+    margin-top: 30px;
+    margin-right: 70%;
+    color: black;
+    text-shadow: 2px 2px #e2e2e2;
+    
+}
+.tamanho-formulario{
+    margin-right: 50%;
+    
+}
+.margem-body{
+    margin-left: 30px;
+    background-color: gray;
+    margin-right: 30px;
+}
+.bg-branco{
+
+    background-color: white;
+}
+.tamanho-texto{
+    width: 200px;
+    text-align: center;
+}
+.padrao-escrita{
+    
+    text-align: justify;
+}
+.padrao-escrita-topicos{
+    text-align: center;
+}
+
+
+.right {  
+    float: right;
+    width: 400px;  
+    height: 150px;  
+    margin: 100px 65px 0px 0px;
+    padding: 0%;
+    }  
+
+.right-texto {  
+    float: right;
+    text-align: justify;
+    width: 300px;  
+    height: 150px; 
+    margin-right: 100px;
+}  
+#espaco{
+    margin-top: 10px;
+}
