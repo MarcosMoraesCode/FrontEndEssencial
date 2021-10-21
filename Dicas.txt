@@ -1,1 +1,4 @@
 Site https://tableless.com.br/ < - documentação e dicas
+https://getbootstrap.com/docs/5.1/utilities/spacing
+
+USANDO MARGIN E PADDING É MELHOR USAR PORCENTAGEM DOQ PIXEL

@@ -59,6 +59,6 @@
 
 @media screen and (max-width: 1024px) {
     .right, .right-texto {
-        display: none !important;
+        display: none;
     }
 }
